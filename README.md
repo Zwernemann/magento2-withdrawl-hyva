@@ -62,7 +62,7 @@ This companion module solves that by providing a dedicated set of templates that
 | Dependency | Version |
 |---|---|
 | PHP | >= 7.4 |
-| Magento | 2.4.6 – 2.4.8-p1 |
+| Magento | 2.4.6 – 2.4.8-p4 |
 | zwernemann/module-withdrawal | >= 1.0.0 |
 | hyva-themes/magento2-theme-module | * |
 
