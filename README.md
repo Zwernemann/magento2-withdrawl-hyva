@@ -24,7 +24,7 @@ The [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) modul
 - REST API endpoint for programmatic access
 
 **Technical**
-- Supports Magento 2.4.6 – 2.4.8-p6
+- Supports Magento 2.4.6 – 2.4.8-p5
 - Full translations for German and English (97 strings)
 - CSRF protection on all forms
 - ACL-based backend permissions
@@ -62,7 +62,7 @@ This companion module solves that by providing a dedicated set of templates that
 | Dependency | Version |
 |---|---|
 | PHP | >= 7.4 |
-| Magento | 2.4.6 – 2.4.8-p6 |
+| Magento | 2.4.6 – 2.4.8-p5 |
 | zwernemann/module-withdrawal | >= 1.0.0 |
 | hyva-themes/magento2-theme-module | * |
 
