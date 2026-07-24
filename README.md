@@ -2,7 +2,7 @@
 
 A companion module for [Zwernemann_Withdrawal](https://github.com/Zwernemann/magento2-withdrawl) that replaces all frontend templates with Hyvä-compatible equivalents built on **Tailwind CSS** and **Alpine.js**.
 
----
+
 
 > ⚠️ **Deprecated:** As of version 1.9.3, Hyvä theme compatibility is built
 > directly into the main module [`zwernemann/module-withdrawal`](https://github.com/Zwernemann/magento2-withdrawl).
