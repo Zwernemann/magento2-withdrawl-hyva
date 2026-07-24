@@ -4,6 +4,13 @@ A companion module for [Zwernemann_Withdrawal](https://github.com/Zwernemann/mag
 
 ---
 
+> ⚠️ **Deprecated:** As of version 1.9.3, Hyvä theme compatibility is built
+> directly into the main module [`zwernemann/module-withdrawal`](https://github.com/Zwernemann/magento2-withdrawl).
+> This separate package is no longer required and is no longer maintained.
+> Existing installations keep working; new installations only need the main module.
+> 
+---
+
 ## Base Module
 
 The [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) module implements the EU statutory right of withdrawal for Magento 2 stores. It covers the full workflow from the customer's initial request to the merchant's administrative handling.
